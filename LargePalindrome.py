@@ -1,3 +1,4 @@
+#Euler Project 4 - Timothy Heath
 #Find the largest palindrome which is the product of two three-digit numbers
 lside=997 #largest possible left half of such a palindrome
 is_ans = False #have we found the answer?
